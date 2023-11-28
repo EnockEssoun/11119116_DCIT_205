@@ -5,18 +5,6 @@
 ## Overview of the website
 This is my first website assigned to be by the department of computer science as my Interim Assessment Preject. This website allows users to discover and explore more about the department of computer science. It contains 10 webpages with each containing different information which would be useful to users.
 
-## Ways to set set up your git
-1.Install Git and sign up for git hub account.
-
-2.Run git bash and set up your git user name and email by runing the following code lines in git terminal:
-~ git config --global user.name "example name"
-~ git congig --global user.email "example@st.ug.edu.gh"
-To check if the process went through, run:
-~ git config -l
-Your user name and user email will be displayed in the terminal, that is a confirmation of your git setup.
-
-3.Close git bash
-
 ## Steps on Cloning
 
 1. Open Visual Studio Code and launch the bash terminal.
